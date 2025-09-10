@@ -8,7 +8,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/[your-username]/OptimusPrime)](https://github.com/[your-username]/OptimusPrime/issues)
 [![GitHub license](https://img.shields.io/github/license/[your-username]/OptimusPrime)](https://github.com/[your-username]/OptimusPrime/blob/main/LICENSE)
 
-[English](README_EN.md) | 한국어
+[English](README-EN.md) | 한국어
 
 </div>
 
