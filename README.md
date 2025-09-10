@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=OptimusPrime&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=25-캡스톤디자인과창업프로젝트A%2037팀&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=OptimusPrime&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlign=62)
 
 <div align="center">
 
