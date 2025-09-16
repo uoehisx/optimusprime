@@ -3,10 +3,7 @@
 <div align="center">
 
 # OptimusPrime
-**Capstone Design & Startup Project A - Team 37**
-
-[![GitHub issues](https://img.shields.io/github/issues/[your-username]/OptimusPrime)](https://github.com/[your-username]/OptimusPrime/issues)
-[![GitHub license](https://img.shields.io/github/license/[your-username]/OptimusPrime)](https://github.com/[your-username]/OptimusPrime/blob/main/LICENSE)
+**25-Capstone Design and Startup Project A Team 37**
 
 English | [한국어](README.md)
 
@@ -15,14 +12,15 @@ English | [한국어](README.md)
 ---
 
 ## Table of Contents
-- [Team Members](#team-members)
-- [Research Overview](#research-overview)
-- [Research Objectives](#research-objectives)
-- [Methodology](#methodology)
-- [Research Environment](#research-environment)
-- [Experimental Design](#experimental-design)
-- [Timeline](#timeline)
-- [Documentation](#documentation)
+- [OptimusPrime](#optimusprime)
+  - [Table of Contents](#table-of-contents)
+  - [Team Members](#team-members)
+  - [Research Topic](#research-topic)
+    - [Research Background](#research-background)
+    - [Research Content](#research-content)
+  - [Related Documents](#related-documents)
+    - [Project Documents](#project-documents)
+  - [Contact](#contact)
 
 ---
 
@@ -33,134 +31,52 @@ English | [한국어](README.md)
   <td align="center">
     <img src="https://github.com/uoehisx.png" width="100px;" alt="Kang Si-yeon"/><br/>
     <b>Kang Si-yeon</b><br/>
-    Computer Engineering '23<br/>
+    Computer Science and  Engineering '23<br/>
     <a href="https://github.com/uoehisx">GitHub</a>
   </td>
   <td align="center">
     <img src="https://github.com/horokkk.png" width="100px;" alt="Kim Ji-yoon"/><br/>
     <b>Kim Ji-yoon</b><br/>
-    Computer Engineering '21<br/>
+    Computer Science and Engineering '21<br/>
     <a href="https://github.com/horokkk">GitHub</a>
   </td>
   <td align="center">
     <img src="https://github.com/RainyForest23.png" width="100px;" alt="Shin Woo-rim"/><br/>
     <b>Shin Woo-rim</b><br/>
-    Computer Engineering '23<br/>
+    Computer Science and  Engineering '23<br/>
     <a href="https://github.com/RainyForest23">GitHub</a>
   </td>
 </tr>
 </table>
 
-### Role Distribution
-- **Kang Si-yeon**: 
-- **Kim Ji-yoon**: 
-- **Shin Woo-rim**: 
-
 ---
 
-## Research Overview
-
-### Research Topic
+## Research Topic
 <!-- Brief description of the research topic -->
+Design of Energy Consumption Prediction Model for AI Workloads per VM and Exploration of Improvement Strategies
 
-### Background
-<!-- Research necessity and background -->
+### Research Background
+- Rapid increase in data center energy consumption due to the proliferation of generative AI
+- GPU-intensive computations, large-scale parameter transfers, and high-frequency I/O operations create energy usage patterns and bottlenecks that differ significantly from traditional workloads across various resources (CPU, GPU, memory, storage)
 
-### Research Scope
-<!-- Research scope and limitations -->
-
----
-
-## Research Objectives
-
-### Primary Objectives
-<!-- Main research goals -->
-
-### Secondary Objectives
-<!-- Specific sub-objectives -->
-
-### Expected Outcomes
-<!-- Expected results and contributions -->
+### Research Content
+- Energy Profiling: Collection and analysis of resource-specific energy consumption using Power Metering equipment, Intel RAPL, NVIDIA NVML, etc.
+- Energy Improvement Rate Estimation Model Design: Development of energy improvement rate estimation model utilizing resource-specific energy measurements
+- System Power Monitoring Tool Development: Development of a monitoring tool that provides overall system energy consumption or improvement rates using power consumption data from individual component resources without requiring energy measurement devices at the power supply unit
+- Energy Bottleneck Detection and Improvement Strategy Exploration: Analysis of energy-intensive sections using the developed model and tools, identification of bottleneck causes based on performance-power correlation, and exploration of improvement strategies
 
 ---
 
-## Methodology
-
-### Research Design
-<!-- Research design methodology -->
-
-### Data Collection
-<!-- Data collection methods -->
-
-### Analysis Methods
-<!-- Data analysis and experimental methods -->
-
----
-
-
-## Research Environment
-
-### Hardware
-<!-- Hardware specifications used -->
-
-### Software
-<!-- Software tools and frameworks -->
-
-### Datasets
-<!-- Datasets used in research -->
-
----
-
-## Experimental Design
-
-### Experiment 1
-<!-- Experiment name and purpose -->
-
-### Experiment 2
-<!-- Experiment name and purpose -->
-
-### Experiment 3
-<!-- Experiment name and purpose -->
-
----
-
-## Timeline
-
-| Period | Activities | Status |
-|:---:|:---:|:---:|
-| March | | |
-| April | | |
-| May | | |
-| June | | |
-
----
-
-## Documentation
-
-### Research Documents
-- [Research Proposal](docs/proposal.md)
-- [Literature Review](docs/literature_review.md)
-- [Experiment Plan](docs/experiment_plan.md)
-- [Interim Report](docs/interim_report.md)
-- [Final Paper](docs/final_paper.md)
+## Related Documents
 
 ### Project Documents
-- [Ideation](Ideation.md)
-- [Ground Rules](GroundRule.md)
-- [Meeting Logs](docs/meeting_logs.md)
-
----
-
-## References
-<!-- Main references and bibliography -->
-
----
+- [Ideation Document](Ideation.md)
+- [Team Rules](GroundRule.md)
 
 ## Contact
 
-For project inquiries:
-- Email: 
-- GitHub Issues: [Issues Page](https://github.com/[your-username]/OptimusPrime/issues)
+Project-related inquiries
+- Email: kstar1029@ewhain.net
 
 ---
 
