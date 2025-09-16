@@ -70,8 +70,9 @@ Design of Energy Consumption Prediction Model for AI Workloads per VM and Explor
 ## Related Documents
 
 ### Project Documents
-- [Ideation Document](Ideation.md)
-- [Team Rules](GroundRule.md)
+- [Ideation Document](docs-EN/Ideation-EN.md)
+- [Team Rules](docs-EN/GroundRule-EN.md)
+- [Project-Scenario](docs-EN/Project-Scenario-EN.md)
 
 ## Contact
 
