@@ -74,8 +74,8 @@ VM별 AI 워크로드 에너지 사용량 예측모델 설계 및 개선 방안 
 
 ### 프로젝트 문서
 - [아이디어 문서](Ideation.md)
-- [팀 규칙](docs-EN/GroundRule-EN.md)
-
+- [팀 규칙](GroundRule.md)
+- [프로젝트 시나리오](Project-Scenario.md)
 
 
 ## 연락처
