@@ -53,7 +53,7 @@ English | [한국어](README.md)
 
 ## Research Topic
 <!-- Brief description of the research topic -->
-Design of Energy Consumption Prediction Model for AI Workloads per VM and Exploration of Improvement Strategies
+Design of Energy Consumption Prediction Model for AI Workloads per VM and Improvement Strategies
 
 ### Research Background
 - Rapid increase in data center energy consumption due to the proliferation of generative AI
