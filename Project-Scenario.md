@@ -1,8 +1,8 @@
 ## Team 37 OptimusPrime
 |항목|내용|
 |---|---|
-|프로젝트명|VM별 AI 워크로드 에너지 사용량 예측모델 설계 및 개선 방안 모색|
-|프로젝트 키워드|AI Workload, Energy Prediction, Virtual Machine, Power Modeling, Cloud Computing, Machine Learning, Energy Efficiency, Resource Optimization|
+|프로젝트명|VM별 AI 워크로드 에너지 사용량 예측모델 설계 및 개선 방안|
+|프로젝트 키워드|AI workload, Power Attribution, Energy Prediction|
 |트랙|연구|
 |프로젝트멤버|[강시연](https://github.com/uoehisx), [김지윤](https://github.com/horokkk), [신우림](https://github.com/RainyForest23)|
 |팀지도교수|반효경 교수님|
