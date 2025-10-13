@@ -58,6 +58,7 @@ Design of Energy Consumption Prediction Model for AI Workloads per VM and Improv
 ### Research Background
 - Rapid increase in data center energy consumption due to the proliferation of generative AI
 - GPU-intensive computations, large-scale parameter transfers, and high-frequency I/O operations create energy usage patterns and bottlenecks that differ significantly from traditional workloads across various resources (CPU, GPU, memory, storage)
+- Inequality of billing system in VM-Cloud Server
 
 ### Research Content
 - Energy Profiling: Collection and analysis of resource-specific energy consumption using Power Metering equipment, Intel RAPL, NVIDIA NVML, etc.
