@@ -57,14 +57,12 @@ Design of Energy Consumption Prediction Model for AI Workloads per VM and Improv
 
 ### Research Background
 - Rapid increase in data center energy consumption due to the proliferation of generative AI
-- GPU-intensive computations, large-scale parameter transfers, and high-frequency I/O operations create energy usage patterns and bottlenecks that differ significantly from traditional workloads across various resources (CPU, GPU, memory, storage)
+- Different amount of energy consumption according to AI workload
 - Inequality of billing system in VM-Cloud Server
 
 ### Research Content
 - Energy Profiling: Collection and analysis of resource-specific energy consumption using Power Metering equipment, Intel RAPL, NVIDIA NVML, etc.
-- Energy Improvement Rate Estimation Model Design: Development of energy improvement rate estimation model utilizing resource-specific energy measurements
-- System Power Monitoring Tool Development: Development of a monitoring tool that provides overall system energy consumption or improvement rates using power consumption data from individual component resources without requiring energy measurement devices at the power supply unit
-- Energy Bottleneck Detection and Improvement Strategy Exploration: Analysis of energy-intensive sections using the developed model and tools, identification of bottleneck causes based on performance-power correlation, and exploration of improvement strategies
+- Improvement Strategy Exploration: Providing clear energy log with analysis using the developed model and tools, design solution for heavy energy consumption
 
 ---
 
